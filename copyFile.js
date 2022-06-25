@@ -1,4 +1,4 @@
-const fs = require("ds");
+const fs = require("fs");
 const filesTopCopy = [
   {
     src: "../CONTRIBUTORS.md",
